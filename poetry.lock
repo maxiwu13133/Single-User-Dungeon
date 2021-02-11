@@ -1,0 +1,17 @@
+[[package]]
+category = "main"
+description = "ANSI colors for Python"
+name = "ansicolors"
+optional = false
+python-versions = "*"
+version = "1.1.8"
+
+[metadata]
+content-hash = "6e8cda9959e600643395fb3972642f4fcbd252609597b62a30b710051b627e16"
+python-versions = "^3.8"
+
+[metadata.files]
+ansicolors = [
+    {file = "ansicolors-1.1.8-py2.py3-none-any.whl", hash = "sha256:00d2dde5a675579325902536738dd27e4fac1fd68f773fe36c21044eb559e187"},
+    {file = "ansicolors-1.1.8.zip", hash = "sha256:99f94f5e3348a0bcd43c82e5fc4414013ccc19d70bd939ad71e0133ce9c372e0"},
+]
